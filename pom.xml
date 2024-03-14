@@ -6,7 +6,7 @@
   <groupId>io.github.viniciosromano</groupId>
   <artifactId>MavenRepository</artifactId>
   <!--A versão não deve ser SNAPSHOT requisito para subir ao Mvn Repository-->
-  <version>1.1</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>MavenRepository</name>
